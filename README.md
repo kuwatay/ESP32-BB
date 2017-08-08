@@ -8,11 +8,11 @@ For the programming of the board, an *extended 7-pin FTDI adapter* is required.
 
 ## 2. Schematic
 
-![Schematic] (ESP32-schematic.png)
+<img src="ESP32-schematic.png" alt="Schematic" width=450>
 
 ## 3. Board layout
 
-![Board Layout] (ESP32-board.png)
+<img src="ESP32-board.png" alt="Board Layout" width=450>
 
 ## 4. BOM
 
